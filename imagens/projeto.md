@@ -24,30 +24,30 @@ Ana Carolina de Almeida Boy - TURMA J
 <br><br><br>
 
 <h2> Produtos -> Cães</h2>
-<img src="imagens/caes.png">
+<img src="caes.png">
 
 <h2> Produtos -> Gatos</h2>
-<img src="imagens/gatos.png">
+<img src="gatos.png">
 <br><br><br>
 
 <h2> Produtos -> Pássaros</h2>
-<img src="imagens/passaros.png">
+<img src="passaros.png">
 <br><br><br>
 
 <h2> Produtos -> Roedores</h2>
-<img src="imagens/roedores.png">
+<img src="roedores.png">
 <br><br><br>
 
 <h2> Produtos -> Sobre Nós</h2>
-<img src="imagens/sobre.png">
+<img src="sobre.png">
 <br><br><br>
 
 <h2> Produtos -> Contato</h2>
-<img src="imagens/contato.png">
+<img src="contato.png">
 <br><br><br>
 
 <h2> Produtos -> Login</h2>
-<img src="imagens/login.png">
+<img src="login.png">
 <br><br><br>
 
 # Ícones
