@@ -51,17 +51,17 @@ Ana Carolina de Almeida Boy - TURMA J
 <br><br><br>
 
 # Ícones
-<img src="icones/icon-back.png">
+<img src="imagens/icones/icon-back.png">
 <br><br>
-<img src="icones/icon-bag.png">
+<img src="imagens/icones/icon-bag.png">
 <br><br>
-<img src="icones/icon-user.png">
+<img src="imagens/icones/icon-user.png">
 <br><br>
-<img src="icones/icon-maps.png">
+<img src="imagens/icones/icon-maps.png">
 <br><br>
-<img src="icones/icon-phone.png">
+<img src="imagens/icones/icon-phone.png">
 <br><br>
-<img src="icones/icon-email.png">
+<img src="imagens/icones/icon-email.png">
 <br><br>
-<img src="icones/icon-down.png">
+<img src="imagens/icones/icon-down.png">
 <br><br>
