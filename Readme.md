@@ -10,44 +10,44 @@ Ana Carolina de Almeida Boy - TURMA J
 ### Paleta de Cores
 
 
-<img src="cores.png">
+<img src="imagens.cores.png">
 
 ### Tipografia
-<img src="fontes.png">
+<img src="imagens/fontes.png">
 <br><br><br>
 
 
 
 # Páginas
 <h2> Início</h2>
-<img src="PÁGINAS/inicio.png">
+<img src="imagens/inicio.png">
 <br><br><br>
 
 <h2> Produtos -> Cães</h2>
-<img src="PÁGINAS/caes.png">
+<img src="imagens/caes.png">
 
 <h2> Produtos -> Gatos</h2>
-<img src="PÁGINAS/gatos.png">
+<img src="imagens/gatos.png">
 <br><br><br>
 
 <h2> Produtos -> Pássaros</h2>
-<img src="PÁGINAS/passaros.png">
+<img src="imagens/passaros.png">
 <br><br><br>
 
 <h2> Produtos -> Roedores</h2>
-<img src="PÁGINAS/roedores.png">
+<img src="imagens/roedores.png">
 <br><br><br>
 
 <h2> Produtos -> Sobre Nós</h2>
-<img src="PÁGINAS/sobre.png">
+<img src="imagens/sobre.png">
 <br><br><br>
 
 <h2> Produtos -> Contato</h2>
-<img src="PÁGINAS/contato.png">
+<img src="imagens/contato.png">
 <br><br><br>
 
 <h2> Produtos -> Login</h2>
-<img src="PÁGINAS/login.png">
+<img src="imagens/login.png">
 <br><br><br>
 
 # Ícones
