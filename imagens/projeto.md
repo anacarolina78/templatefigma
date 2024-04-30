@@ -27,7 +27,7 @@ Ana Carolina de Almeida Boy - TURMA J
 <img src="imagens/caes.png">
 
 <h2> Produtos -> Gatos</h2>
-<img src="imaegns/gatos.png">
+<img src="imagens/gatos.png">
 <br><br><br>
 
 <h2> Produtos -> Pássaros</h2>
