@@ -13,7 +13,7 @@ Ana Carolina de Almeida Boy - TURMA J
 <img src="imagens/cores.png">
 
 ### Tipografia
-<img src="fontes.png">
+<img src="imagens/fontes.png">
 <br><br><br>
 
 
