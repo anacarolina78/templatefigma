@@ -10,7 +10,7 @@ Ana Carolina de Almeida Boy - TURMA J
 ### Paleta de Cores
 
 
-<img src="cores.png">
+<img src="imagens/cores.png">
 
 ### Tipografia
 <img src="fontes.png">
