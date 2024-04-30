@@ -21,6 +21,7 @@ Ana Carolina de Almeida Boy - TURMA J
 # Páginas
 <h2> Início</h2>
 <img src="imagens/inicio.png">
+<img src="imagens/todosanimais.png">
 <br><br><br>
 
 <h2> Produtos -> Cães</h2>
@@ -29,6 +30,7 @@ Ana Carolina de Almeida Boy - TURMA J
 
 <h2> Produtos -> Gatos</h2>
 <img src="imagens/gatos.png">
+<img src="imagens/banner-gatos.jpg">
 <br><br><br>
 
 <h2> Produtos -> Pássaros</h2>
