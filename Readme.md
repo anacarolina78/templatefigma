@@ -16,6 +16,22 @@ Ana Carolina de Almeida Boy - TURMA J
 <img src="imagens/fontes.png">
 <br><br><br>
 
+### Logotipos
+<img src="logotipos/2.jpg">
+<br><br>
+<img src="logotipos/3.jpg">
+<br><br>
+
+<img src="logotipos/logo1.jpg">
+<br><br>
+<img src="logotipos/logo2.jpg">
+<br><br>
+
+<img src="logotipos/logo3.jpg">
+<br><br>
+
+<img src="logotipos/logo4.jpg">
+<br><br>
 
 
 # Páginas
