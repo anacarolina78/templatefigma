@@ -1,4 +1,4 @@
-## Projeto Web - Template Figma
+![1000_F_367863869_tYibIxEubHFxMl33Ow38JAHYakAZGsNz-transformed](https://github.com/anacarolina78/templatefigma/assets/166236891/07a858cf-93d0-41ab-b091-0635bf3075f1)## Projeto Web - Template Figma
 
 Desenvolvimento:<br>
 Ana Carolina de Almeida Boy - TURMA J
@@ -21,7 +21,13 @@ Ana Carolina de Almeida Boy - TURMA J
 # Páginas
 <h2> Início</h2>
 <img src="imagens/inicio.png">
-<img src="imagens/todosanimais.png">
+<img src="imagens/todosanimais.jpg">
+
+## Categorias
+<img src="imagens/roedor.png">
+<img src="imagens/cachorro.png">
+<img src="imagens/gato.png">
+<img src="imagens/passaro.png">
 <br><br><br>
 
 <h2> Produtos -> Cães</h2>
@@ -35,6 +41,7 @@ Ana Carolina de Almeida Boy - TURMA J
 
 <h2> Produtos -> Pássaros</h2>
 <img src="imagens/passaros.png">
+<img src="imagens/banner-passaros.jpeg">
 <br><br><br>
 
 <h2> Produtos -> Roedores</h2>
