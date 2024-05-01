@@ -1,4 +1,4 @@
-![1000_F_367863869_tYibIxEubHFxMl33Ow38JAHYakAZGsNz-transformed](https://github.com/anacarolina78/templatefigma/assets/166236891/07a858cf-93d0-41ab-b091-0635bf3075f1)## Projeto Web - Template Figma
+## Projeto Web - Template Figma
 
 Desenvolvimento:<br>
 Ana Carolina de Almeida Boy - TURMA J
@@ -58,6 +58,7 @@ Ana Carolina de Almeida Boy - TURMA J
 
 <h2> Produtos -> Login</h2>
 <img src="imagens/login.png">
+<img src="imagens/DOGACENANDO.png">
 <br><br><br>
 
 # Ícones
